@@ -30,7 +30,6 @@ This project is open-source and available under the **MIT License**.
 Feel free to fork this repository, make changes, and submit a pull request.
 
 ## 📧 Contact
-## 📧 Contact
 For any issues or suggestions, reach out at: [[GitHub](https://github.com/Fazilat-Jahan)]  
 
 📌 Connect with me on LinkedIn: [[LinkedIn](https://www.linkedin.com/in/fazilat-jahan-web-developer/)]
