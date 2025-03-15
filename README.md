@@ -21,7 +21,7 @@ This is a **Password Strength Meter** built using **Streamlit**. It allows users
 - **random** - For generating strong passwords
 
 ## 🔗 Live Demo
-Check out the live version of the project here: [Streamlit App Link](<Your Streamlit App URL>)
+Check out the live version of the project here: [Password Strength Meter](<https://safepass-meter.streamlit.app/>)
 
 ## 📜 License
 This project is open-source and available under the **MIT License**.
